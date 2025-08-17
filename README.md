@@ -57,13 +57,13 @@ python src/train.py
 **Alternative: Use full Python path (if activation doesn't work):**
 ```bash
 # run the main webcam demo
-/Users/Philip/Documents/personal-projects/hand-tracking-gestures/.venv/bin/python src/inference.py
+./.venv/bin/python src/inference.py
 
 # run with debug visualization
-/Users/Philip/Documents/personal-projects/hand-tracking-gestures/.venv/bin/python src/inference.py --debug
+./.venv/bin/python src/inference.py --debug
 
 # run with trajectory visualization
-/Users/Philip/Documents/personal-projects/hand-tracking-gestures/.venv/bin/python src/inference.py --trajectory
+./.venv/bin/python src/inference.py --trajectory
 ```
 
 For development and testing:

@@ -4,7 +4,7 @@ A Python project I built to explore real-time hand tracking and gesture recognit
 
 ![Demo](assets/demo.gif)
 
-*Demo placeholder - gesture recognition with real-time hand tracking and trajectory visualization*
+*Note: The GIF compression makes the visualization appear choppy - the actual real-time performance is much smoother*
 
 ## What it does
 
